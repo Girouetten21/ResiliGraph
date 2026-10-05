@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">⚡ ResiliGraph</h1>
+<h1 align="center">ResiliGraph</h1>
 
 <p align="center">
   <strong>Interactive Distributed Architecture & Chaos Simulation Engine</strong>
@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://resiligraph.vercel.app">
-    <img src="https://img.shields.io/badge/🚀_LAUNCH_LIVE_DEMO-00F0FF?style=for-the-badge&labelColor=0a0f1a&color=00f0ff" alt="Launch Live Demo" />
+    <img src="https://img.shields.io/badge/🚀_LAUNCH_LIVE_DEMO-00F0FF?style=for-the-badge&labelColor=0a0f1a&color=1B1B1B" alt="Launch Live Demo" />
   </a>
 </p>
 
@@ -32,7 +32,7 @@
 
 > **ResiliGraph** is an open-source, interactive simulation engine and living specification platform for distributed systems. It turns architecture designs into an **interactive, reactive runtime canvas** powered by queuing theory, horizontal pod autoscaling (HPA), cross-region latency penalties, chaos engineering fault injection drills, automated reliability scorecard benchmarks, and one-click export to Docker Compose and AWS Terraform.
 > 
-> 🌐 **Live Interactive Demo:** Experience ResiliGraph directly in your browser without any setup at **[resiligraph.vercel.app](https://resiligraph.vercel.app)**.
+> 🌐 **Live Interactive Demo:** Experience ResiliGraph directly in your browser **[resiligraph.vercel.app](https://resiligraph.vercel.app)**.
 
 ![ResiliGraph Live Architecture Simulator](preview.png)
 
